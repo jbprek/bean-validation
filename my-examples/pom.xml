@@ -12,6 +12,7 @@
     <name>my-examples</name>
 
     <modules>
+        <module>custom-validators-bv1.1</module>
     </modules>
 
 </project>
